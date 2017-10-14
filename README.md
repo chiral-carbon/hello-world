@@ -1,8 +1,10 @@
 # hello-world
 The very first. Obviously.
+
+
 <insert greeting and generic message>
-  <insert random information about self to exaggeratedly display self's sense of humor and quirkiness>
-  <insert irrelevant quote with no justification>
+<insert random information about self to exaggeratedly display self's sense of humor and quirkiness>
+<insert irrelevant quote with no justification>
 </>
 Hello world.
 Finally getting around to open source.
