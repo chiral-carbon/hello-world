@@ -1,6 +1,6 @@
 # hello-world
 The very first. Obviously.
-->cue greeting and generic message
+<<<->cue greeting and generic message>>>
 ->cue random information about self to exacerbate self's quirkiness
 ->cue unrelated quote with no justification.
 Hello world.
