@@ -1,11 +1,11 @@
 # hello-world
 The very first. Obviously.
 
-- *Cue greeting and generic message*
+- Cue greeting and generic message
 
-- *Cue random information about self to exacerbate self's quirkiness*
+- Cue random information about self to exacerbate self's quirkiness
 
-- *Cue unrelated quote with no justification*
+- Cue unrelated quote with no justification
 
 >*Hello world.*
 
